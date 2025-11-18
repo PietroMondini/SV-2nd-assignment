@@ -2,4 +2,4 @@
 
 Data Imputation, Clustering and some statistical visualization using different models
 
-Presentation link: 
+Presentation link: https://slides.com/pietromondini/clustering
